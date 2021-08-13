@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPI Linux Essentials resources and online exam experience"
+title: "LPI Linux Essentials Resources and Online Exam Experience"
 ---
 
 ![Linux Essentials certificate](/assets/img/posts/linux-essentials-online-exam/linux-esentials-certificate.png)
