@@ -4,6 +4,29 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About Me
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Hi, I'm Axel Tan. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Cloud technologies ☁️, DevOps ♾️ and automation 🤖. To further enhance my knowledge in these areas, I'm studying for certifications and doing side projects. I created this website to share my learning journey, reflections and to showcase some of the projects I am working on.
+
+I'm currently serving National Service as an Air Force Technician ✈️, and I will be studying Information Systems in university. I also volunteer on a weekly basis with [Touch Young Arrows](https://www.touch.org.sg/about-touch/our-services/touch-young-arrows-homepage) 💘, the branch of Touch Community Services providing mentoring programmes for underprivileged children. During the weekly mentoring sessions, we provide English and Mathematics tuition to the children, followed by Values Driven Activity (VDA), in which we inculcate in them values that will help them grow and develop.
+
+I spend most of my time at home learning and practising with a range of technologies. The tools and technologies I am learning include:
+
+- **AWS** ☁️
+    - Solutions architect, Developer, SysOps administrator
+- **Linux** 🐧
+    - System administration
+    - Shell scripting
+- **Python** 🐍
+    - Web apps (with Flask)
+    - REST APIs
+    - Scripting
+
+When I feel like taking a break, I like to engage in sporting activities (especially football ⚽). I also enjoy watching football matches and browsing Reddit.
+
+To validate my knowledge and challenge myself, I am also pursuing IT certifications. Listed below are some of the certifications I have obtained:
+
+- [LPI Linux Essentials](https://axeltan.com/LPI-Linux-Essentials-resources-and-online-exam-experience-6177b440cd714e79a9f69aec65f2bfa1) (14/5/2021)
+- CompTIA A+ Core 1 220-1001 (6/6/2021)
+
+Thanks for stopping by!
