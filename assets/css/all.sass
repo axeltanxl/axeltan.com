@@ -19,20 +19,3 @@ $documentBackgroundColor: #fff
 @import '3-sections/-sections-dir'
 
 @import 'colors'
-
-body {
-  @include color-assign(background-color, background)
-  @include color-assign(color, primary-500)
-
-  a {
-    @include color-assign(color, accent-500)
-
-    &:hover {
-      @include color-assign(color, accent-600)
-    }
-  }
-
-  div {
-      @include color-assign(border, primary-600, '1px solid here')
-  }
-}
