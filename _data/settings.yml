@@ -2,7 +2,6 @@
 # General Site Settings
 
 menu:
-- {name: 'Blog',     url: ''}
 - {name: 'Projects', url: 'projects'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
@@ -45,12 +44,12 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: ''
+  comments: true
+  disqus_shortname: 'axeltan'
