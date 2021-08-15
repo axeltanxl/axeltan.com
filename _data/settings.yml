@@ -21,7 +21,7 @@ projects:
 social:
 - {icon: 'github',    link: 'https://github.com/axeltanxl'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/axeltanxl'}
-- {icon: 'envelope',  link: 'mailto:mailto:axeltan@outlook.sg'}
+- {icon: 'envelope',  link: 'mailto:axeltan@outlook.sg'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

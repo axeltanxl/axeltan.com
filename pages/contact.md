@@ -9,7 +9,7 @@ permalink: /contact
 You may contact me [through my email](mailto:axeltan@outlook.sg) or by filling up the form below.
 
 <div id=contact>
-    <form action="http://formspree.io/your@mail.com" method="POST">
+    <form action="https://formspree.io/f/xyylbezz" method="POST">
         <label for="name">Name</label>
         <input type="text" id="name" name="name" class="full-width"><br>
         <label for="email">Email Address</label>
