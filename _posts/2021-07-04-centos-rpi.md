@@ -5,7 +5,7 @@ title: "How To Install CentOS on Raspberry Pi"
 
 After playing around with Raspbian (a portmanteau of Raspberry and Debian) as the OS for my Raspberry Pi (RPi), I decided to switch over to using an RPM-based Linux distro instead. There are a few reasons for this. Firstly, I already have Ubuntu running on my main computer in a dual-boot setup with Windows. Secondly, I am currently going through a [**course on Udemy**](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/) on Linux system administration, and the course uses CentOS/RHEL as the Linux distro. I want to practise along as I go through the course, and I will be doing that by SSH-ing into my RPi running on CentOS to practise. These are the steps I took to install CentOS on my RPi.
 
-## Step 1: Download CentOS for the RPi
+#### Step 1: Download CentOS for the RPi
 
 You need to first install the CentOS ISO image. ISO images are not downloadable from the CentOS mirror website as they want to "conserve the limited bandwidth available". However, you can download the ISO images from alternate mirror links, which can be found [**here**](http://isoredirect.centos.org/altarch/7/isos/armhfp/). Click on any one of those mirror links (I recommend the first link) and you will be redirected to a webpage containing ISO images of CentOS. 
 
