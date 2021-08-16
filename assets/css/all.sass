@@ -4,8 +4,8 @@
 //------------------------------------------------
 // Set some colors as sass variables
 
-$accent-color: #BD5248
-$accent: #c99065
+$accent-color: #0056B3
+$accent: #0056B3
 $accent-light: adjust-hue(saturate(lighten($accent, 11%), 12.6%), 14%)
 $selectionColor: lighten($accent, 30%)
 
@@ -19,3 +19,10 @@ $documentBackgroundColor: #fff
 @import '3-sections/-sections-dir'
 
 @import 'colors'
+
+body
+  @include color-assign(background-color, background)
+  @include color-assign(color, primary-500)
+
+  small
+    @include color-assign(color, primary-400)

@@ -1,3 +1,4 @@
+@import 'colors'
 /*	Typography presets
   ------------------------------------	*/
 
@@ -55,12 +56,12 @@ hr
 /* Links
   ------------------------------------	*/
 a
-  color: $accent
+  @include color-assign(color, accent-600)
   text-decoration: none
   outline: 0
 
 a:hover, a:focus
-  color: lighten($accent, 20%)
+  @include color-assign(color, accent-600)
 
 
 
@@ -119,16 +120,3 @@ section:nth-child(odd)
 
   h3
     color: darken($accent-light, 10%)
-
-html
-  --light-text-color:rgb(72, 72, 74)
-  --link-color:rgb(0, 112, 201)
-  --main-background-color:rgb(255, 255, 255)
-  --main-text-color:rgb(51, 51, 51)
-
-@media (prefers-color-scheme: dark)
-  html
-    --light-text-color:rgb(199, 199, 204)
-    --link-color:rgb(100, 210, 255)
-    --main-background-color:rgb(28, 28, 30)
-    --main-text-color:rgb(229, 229, 234)

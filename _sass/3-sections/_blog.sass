@@ -1,3 +1,4 @@
+@import 'colors'
 .blog-container
   padding-top: 10px
   margin: 30px
@@ -10,9 +11,9 @@
         size: 24px
         weight: 700
       a
-        color: black
+        @include color-assign(color, accent-500)
       &:hover a
-        color: $accent-color
+        @include color-assign(color, accent-600)
     .blog-date
       display: block
       font:
