@@ -19,6 +19,7 @@ projects:
 # Contact Section
 
 social:
+- {icon: 'twitter',   link: 'https://twitter.com/axeltanxl'}
 - {icon: 'github',    link: 'https://github.com/axeltanxl'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/axeltanxl'}
 - {icon: 'envelope',  link: 'mailto:axeltan@outlook.sg'}
