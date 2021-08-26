@@ -26,8 +26,12 @@ When I feel like taking a break, I like to engage in sporting activities (especi
 
 To validate my knowledge and challenge myself, I am also pursuing IT certifications. Listed below are some of the certifications I have obtained:
 
-- [LPI Linux Essentials](linux-essentials-online-exam) (14/5/2021)
-- CompTIA A+ Core 1 220-1001 (6/6/2021)
-- CompTIA A+ Core 2 200-1002 (16/8/2021)
+- [LPI Linux Essentials](linux-essentials-online-exam) \[14/5/2021\]
+- CompTIA A+ Core 1 (220-1001) \[6/6/2021\]
+- CompTIA A+ Core 2 (200-1002) \[16/8/2021\]
+
+I am currently studying for:
+- Cisco CCNA (200-301)
+- AWS Certified Solutions Architect Associate (SAA-C02)
 
 Thanks for stopping by!
