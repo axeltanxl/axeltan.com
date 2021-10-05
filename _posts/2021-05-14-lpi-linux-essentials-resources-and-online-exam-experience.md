@@ -3,7 +3,7 @@ layout: post
 title: "LPI Linux Essentials Resources and Online Exam Experience"
 ---
 
-![Linux Essentials certificate](/assets/img/posts/linux-essentials-online-exam/linux-esentials-certificate.png)
+![Linux Essentials certificate](/assets/img/posts/lpi-linux-essentials-resources-and-online-exam-experience/linux-esentials-certificate.png)
 
 *Linux essentials certificate. Verify at* [*lpi.org/v/LPI000487360/bttcuvu225*](http://lpi.org/v/LPI000487360/bttcuvu225)
 
