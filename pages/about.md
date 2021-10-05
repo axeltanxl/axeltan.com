@@ -15,14 +15,13 @@ I'm currently serving National Service as an Air Force Technician ✈️, and I 
 I spend most of my time at home learning and practising with a range of technologies. The tools and technologies I am learning/will be learning include:
 
 - **AWS** ☁️
-    - Solutions architect, Developer, SysOps administrator
+    - Solutions architect
 - **Linux** 🐧
     - System administration
     - Shell scripting
 - **Python** 🐍
-    - Web apps (with Flask)
-    - REST APIs
     - Scripting
+    - AWS CDK (Boto3)
 
 When I feel like taking a break, I like to engage in sporting activities (especially football ⚽). I also enjoy watching football matches and browsing Reddit.
 
