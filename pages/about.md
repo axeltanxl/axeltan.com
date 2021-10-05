@@ -6,7 +6,7 @@ permalink: /about
 
 # About Me
 
-<img src="/assets/profile-pic.jpg" alt="profile-pic" width="200" style="border-radius:50%"/>
+<img src="/assets/profile-pic.jpg" alt="profile-pic" width="200" align=right style="border-radius:50%"/>
 
 Hi, I'm Axel Tan. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Cloud technologies ☁️, DevOps ♾️ and automation 🤖. To further enhance my knowledge in these areas, I'm studying for certifications and doing side projects. I created this website to share my learning journey, my thoughts and reflections on trending technology topics and to showcase some of the projects I am working on.
 
