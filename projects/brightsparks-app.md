@@ -7,8 +7,8 @@ A simple app I coded using Java and XML to ease the scholarship application proc
 
 {% include image.html url="https://github.com/axeltanxl/brightsparks-app" image="projects/brightsparks-app/thumbnail.jpg" %}
 
-{% include image.html url="https://github.com/axeltanxl/brightsparks-app" image="projects/brightsparks-app/log-in-page.jpg" %}
+{% include image.html url="https://github.com/axeltanxl/brightsparks-app" image="projects/brightsparks-app/scholarships-search.jpg" %}
 
-{% include image.html url="https://github.com/axeltanxl/brightsparks-app" image="projects/brightsparks-app/scholarships.jpg" %}
+{% include image.html url="https://github.com/axeltanxl/brightsparks-app" image="projects/brightsparks-app/scholarship.jpg" %}
 
 {% include image.html url="https://github.com/axeltanxl/brightsparks-app" image="projects/brightsparks-app/scholarship-resume.jpg" %}
