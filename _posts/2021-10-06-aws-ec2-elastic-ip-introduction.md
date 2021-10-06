@@ -19,4 +19,4 @@ A use case of elastic IP is to mask the failure of an instance by associating th
 
 To use an elastic IP address, you need to allocate an IP address to your account. Once an elastic IP address is allocated to your account, it can then be attached to an EC2 instance. Be careful though, as you will be charged for elastic IP addresses in your account that are either not associated with any instance or associated with a stopped instance. While your instance is running, it will not be charged. Once you do not require an elastic IP anymore, you can release it to prevent costs from building up.
 
-AWS only allows an account to have 5 elastic IPs per region to prevent misuse, as these addresses come from their own IP address pool. However, using elastic IP addresses is generally avoided as it reflects poor architectural decision (there are better ways to perform failover).
+AWS only allows an account to have 5 elastic IPs per region to prevent misuse, as these addresses come from their own IP address pool.
