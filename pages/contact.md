@@ -14,8 +14,12 @@ You may contact me [through my email](mailto:axeltan@outlook.sg) or by filling u
         <input type="text" id="name" name="name" class="full-width"><br>
         <label for="email">Email Address:</label>
         <input type="email" id="email" name="_replyto" class="full-width"><br>
-        <label for="message">Message:</label>
-        <textarea name="message" id="message" cols="30" rows="10" style="width:59%; height:175px;"></textarea><br>
+        <div>
+            <label for="message">Message:</label>
+        </div>
+        <div>
+            <textarea name="message" id="message" cols="30" rows="10" style="width:69%; height:175px;"></textarea><br>
+        </div>
         <input type="submit" value="Send" class="button" style="color:#222">
     </form>
 </div>
