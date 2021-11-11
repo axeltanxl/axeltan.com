@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Words Have Power!"
+title: "Words Have Power"
 ---
 
 ![Explaining the consequences of hurtful words](/assets/img/posts/words-have-power/consequences-of-hurtful-words.png)
 
 *Explaining the consequences of hurtful words*
 
-Today, I led the VDA session on the topic: "Words Have Power". This lesson allowed the children to understand the consequences and impact of their words. This is an important lesson because at such a young age, they may not have the maturity and awareness to understand the impact of their words as they interact with their friends and family daily. They were taught how their words could potentially hurt others, from minor consequences such as causing anger in others, to major repercussions such as causing others to hurt themselves. They were also taught a simple method to be responsible with their words called the "TA" method which stands for 1.) THINK before talking, and 2.) ASK yourself if what you say will be helpful to others, and if you are saying it kindly/nicely. Finally, the lesson ended off with an activity in which the children were given a scenario to practice using the "TA" method. 
+Today, I led the VDA session on the topic: "Words Have Power". This lesson allowed the children to understand the consequences and impact of their words. This is an important lesson because at such a young age, they may not have the maturity and awareness to understand the impact of their words as they interact with their friends and family daily. They were taught how their words could potentially hurt others, from minor consequences such as causing anger in others, to major repercussions such as causing others to hurt themselves. They were also taught a simple method to be responsible with their words called the "TA" method which stands for 1.) THINK before talking, and 2.) ASK yourself if what you say will be helpful to others, and if you are saying it kindly/nicely. Finally, the lesson ended off with an activity in which the children were given a scenario to practice using the "TA" method.
 
 !["TA" method](/assets/img/posts/words-have-power/practising-ta-method.png)
 
