@@ -3,7 +3,7 @@ layout: post
 title: "How to Transfer Files From Your Computer Into an EC2 Instance"
 ---
 
-Transferring files between physical computers is easy. We can simply use a thumbdrive to copy the file from one computer to another. What if we want to transfer files to a virtual machine, like an EC2 instance? We'd need to use the command line to help us. In this guide, I explain the steps to transfer files from a Linux/MacOS computer to an EC2 instance.
+Transferring files between physical computers is easy. We can simply use a USB flash drive to copy the file from one computer to another. What if we want to transfer files to a virtual machine, like an EC2 instance? We'd need to use the command line to help us. In this guide, I explain the steps to transfer files from a Linux/MacOS computer to an EC2 instance.
 
 #### Prerequisites:
 
