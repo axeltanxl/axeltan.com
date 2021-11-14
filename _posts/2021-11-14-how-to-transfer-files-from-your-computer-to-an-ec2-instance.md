@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Transfer Files From Your Computer Into an EC2 Instance"
+title: "How to Transfer Files From Your Computer to an EC2 Instance"
 ---
 
 Transferring files between physical computers is easy. We can simply use a USB flash drive to copy the file from one computer to another. What if we want to transfer files to a virtual machine, like an EC2 instance? We'd need to use the command line to help us. In this guide, I explain the steps to transfer files from a Linux/MacOS computer to an EC2 instance.
@@ -22,7 +22,7 @@ If your key pair is new, chances are that another error message will appear that
 
 ![ec2-ssh-error.png](/assets/img/posts/how-to-transfer-files-from-your-computer-to-an-ec2-instance/ec2-ssh-error.png)
 
-This error looks slightly more intimidating, but it is rather easy to fix. Your computer is complaining that the key pair file has permissions that are too open (other users are able to read and/or write to the file). The key pair file should be protected and only be read by you, so the permissions needs to be updated to reflect this. Type `chmod 400 `*key_pair_name*`.pem` to resolve this. This command changes the permissions of your file (`chmod`) to only be readable (`4`) by you and no one else (`00`). For more information about how file permissions work in Linux/MacOS, check out this [article](https://www.tutorialspoint.com/unix/unix-file-permission.htm). With that out of the way, we can start to transfer files to and from our EC2 instance.
+This error looks slightly more intimidating, but it is rather easy to fix. Your computer is complaining that the key pair file has permissions that are too open (other users are able to read and/or write to the file). The key pair file should be protected and only be read by you, so the permissions needs to be updated to reflect this. Type `chmod 400 `*key_pair_name*`.pem` to resolve this. This command changes the permissions of your file (`chmod`) to only be readable (`4`) by you and no one else (`00`). For more information about how file permissions work in Linux/MacOS, check out this [article](https://www.tutorialspoint.com/unix/unix-file-permission.htm). With that out of the way, we can start to transfer files to our EC2 instance.
 
 #### Transferring files to EC2 instance
 
