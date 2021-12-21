@@ -30,9 +30,6 @@ To validate my knowledge and challenge myself, I'm also pursuing IT certificatio
 - [LPI Linux Essentials](lpi-linux-essentials-resources-and-online-exam-experience) (010-160) \[14/5/2021\]
 - CompTIA A+ Core 1 (220-1001) \[6/6/2021\]
 - CompTIA A+ Core 2 (200-1002) \[16/8/2021\]
-
-I am currently studying for:
-- Cisco CCNA (200-301) [Target: By Mid-December 2021]
-- AWS Certified Solutions Architect Associate (SAA-C02) [Target: By End-November 2021]
+- AWS Solutions Architect Associate (SAA-C02) \[28/11/2021\]
 
 Thanks for stopping by!
