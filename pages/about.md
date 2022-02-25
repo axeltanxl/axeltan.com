@@ -31,5 +31,6 @@ To validate my knowledge and challenge myself, I'm also pursuing IT certificatio
 - CompTIA A+ Core 1 (220-1001) \[6/6/2021\]
 - CompTIA A+ Core 2 (200-1002) \[16/8/2021\]
 - AWS Solutions Architect Associate (SAA-C02) \[28/11/2021\]
+- GitLab Certified Associate \[31/12/2021\]
 
 Thanks for stopping by!
