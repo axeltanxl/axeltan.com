@@ -1,0 +1,15 @@
+---
+layout: post
+title: "DevOps Basics: Deploy a Docker Container to AWS ECS"
+---
+
+Docker is a wonderful technology. It allows applications and its dependencies to be packaged into containers that work cross-platform. This not only saves space, it also eliminates the administrative overhead that comes with setting up a development environment.
+
+In this tutorial, we will learn the basics of Docker, culminating in a mini project to deploy a Docker container to AWS ECS.
+
+#### Prerequisites:
+    - 
+
+#### Step 1: Prepare a Docker image
+
+Docker images are the templates used to start containers. Just like how a Virtual Machine uses OS images to create virtual machines, Docker containers use Docker images to create Docker containers. There are many pre-configured Docker images available, both official and non-official. These images are hosted on a registry called Docker Hub. The most popular images include Ubuntu, Redis and NodeJS. To download an image from Docker Hub to your local machine, just run `docker pull <image_name>`, for official images. For non-official images, run `docker pull <docker_id>/<image_name>`.
