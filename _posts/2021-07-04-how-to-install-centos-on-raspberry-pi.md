@@ -9,7 +9,7 @@ After playing around with Raspbian (a portmanteau of Raspberry and Debian) as th
 
 You need to first install the CentOS ISO image. ISO images are not downloadable from the CentOS mirror website as they want to "conserve the limited bandwidth available". However, you can download the ISO images from alternate mirror links, which can be found [**here**](http://isoredirect.centos.org/altarch/7/isos/armhfp/). Click on any one of those mirror links (I recommend the first link) and you will be redirected to a webpage containing ISO images of CentOS. 
 
-![CentOS ISO images](/assets/img/posts/how-to-instal-centos-on-raspberry-pi/centos-iso-images.png)
+![CentOS ISO images](/assets/img/posts/how-to-install-centos-on-raspberry-pi/centos-iso-images.png)
 
 *CentOS ISO images*
 
@@ -19,7 +19,7 @@ Unfortunately, RPi 4 only supports the minimal version of CentOS (no GUI), where
 
 Before you can install the OS on RPi, you have to flash the CentOS image into the SD card to be used with RPi. This can be done with third-party tools, and the one I used is called "[**BalenaEtcher**](https://www.balena.io/etcher/)". Download the software for your system (Etcher supports Windows, Linux and macOS). The file downloaded should be in a .zip format. Extract the file and open the extracted file. You should see this screen:
 
-![BalenaEtcher software](/assets/img/posts/how-to-instal-centos-on-raspberry-pi/balenaetcher-software.png)
+![BalenaEtcher software](/assets/img/posts/how-to-install-centos-on-raspberry-pi/balenaetcher-software.png)
 
 *BalenaEtcher software*
 
