@@ -9,4 +9,4 @@ I made some customisations to the theme and enabled some built-in integrations, 
 - Enabling Disqus comments
 - Enabling Contact Forms with Formspree 
 
-License: Open sourced under the [MIT license](https://github.com/LeNPaul/portfolio-jekyll-theme/blob/gh-pages/LICENSE.md).
+License: Open sourced under the [MIT license](https://github.com/axeltanxl/axeltan.com/blob/gh-pages/LICENSE.md).
