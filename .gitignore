@@ -27,11 +27,10 @@ Temporary Items
 ### Jekyll ###
 _site
 .jekyll-cache
+_drafts
 
 ### Sass ###
 .sass-cache
 
 ### Gemfile ###
 Gemfile.lock
-
-_drafts

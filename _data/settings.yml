@@ -11,10 +11,6 @@ menu:
 
 projects:
 - {name: 'Notion Automation', url: 'notion-automation'}
-- {name: 'Higher Lower Game',  url: 'higher-lower-game'}
-- {name: 'Pong Game', url: 'pong-game'}
-- {name: 'Brightsparks App',   url: 'brightsparks-app'}
-- {name: 'Peek-a-Boo (Scratch)',   url: 'peek-a-boo-scratch'}
 
 #-------------------------------
 # Contact Section
