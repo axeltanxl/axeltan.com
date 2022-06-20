@@ -6,13 +6,13 @@ permalink: /about
 
 # About Me
 
-<img src="/assets/profile-pic.jpg" alt="profile-pic" width="200" align=right style="border-radius:50%"/>
+<img src="/assets/profile-pic.jpg" alt="pic" width="200" align=right style="border-radius:50%"/>
 
-Hi, I'm Axel Tan. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Cloud technologies ☁️, DevOps ♾️ and automation 🤖. To further enhance my knowledge in these areas, I'm studying for certifications and doing side projects. I created this website to share my learning journey, showcase some of my side projects and blog about what I've learnt.
+Hi, I'm Axel Tan. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Cloud technologies ☁️, DevOps ♾️ and scalable systems. To further enhance my knowledge in these areas, I'm studying for certifications and doing side projects. I created this website to share my learning journey, showcase some of my side projects and blog about what I've learnt.
 
-I recently completed serving National Service as an Air Force Technician ✈️, and I will be studying Computer Science in university at SMU later this year. Currently, I'm working as a Desktop Support Engineer at Panasonic. I also volunteer on a weekly basis with [Touch Young Arrows](https://www.touch.org.sg/about-touch/our-services/touch-young-arrows-homepage) 💘, the branch of Touch Community Services providing mentoring programmes for underprivileged children. During the weekly mentoring sessions, we provide English and Mathematics tuition to the children, followed by a session of Values Driven Activity (VDA), in which we inculcate in them values that will help them grow and develop.
+I will be studying Computer Science at Singapore Management University in August this year. Meanwhile, I am volunteering on a weekly basis with [Touch Young Arrows](https://www.touch.org.sg/about-touch/our-services/touch-young-arrows-homepage) 💘, the branch of Touch Community Services providing mentoring programmes for underprivileged children. During the weekly mentoring sessions, we provide English and Mathematics tuition to the children, followed by a session of Values Driven Activity (VDA), in which we inculcate in them values that will help them grow and develop.
 
-I spend most of my time at home learning and practising with a range of technologies. The tools and technologies I am familiar with include:
+I spend most of my time at home learning and practising with a range of technologies. The tools and technologies I am proficient with include:
 
 - **AWS** ☁️
 - **Linux** 🐧
@@ -32,5 +32,7 @@ To validate my knowledge and challenge myself, I'm also pursuing IT certificatio
 - CompTIA A+ Core 2 (200-1002) \[16/8/2021\]
 - AWS Solutions Architect Associate (SAA-C02) \[28/11/2021\]
 - GitLab Certified Associate \[31/12/2021\]
+- Linux Foundation Certified Kubernetes Administrator \[8/6/2022\]
+- CompTIA Security+ \[19/6/2022\]
 
 Thanks for stopping by!
