@@ -32,7 +32,8 @@ To validate my knowledge and challenge myself, I'm also pursuing IT certificatio
 - CompTIA A+ Core 2 (200-1002) \[16/8/2021\]
 - AWS Solutions Architect Associate (SAA-C02) \[28/11/2021\]
 - GitLab Certified Associate \[31/12/2021\]
+- CompTIA Linux+ (XK1-005) \[13/2/2022\]
 - Linux Foundation Certified Kubernetes Administrator \[8/6/2022\]
-- CompTIA Security+ \[19/6/2022\]
+- CompTIA Security+ (SY0-601) \[19/6/2022\]
 
 Thanks for stopping by!
