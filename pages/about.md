@@ -18,7 +18,7 @@ I spend most of my time at home learning and practising with a range of technolo
 - **Linux** 🐧
 - **Python** 🐍
 
-Some of the technologies I'm currently learning/planning to learn include:
+Some of the technologies I'm currently learning include:
 
 - **Docker** 🚢
 - **Kubernetes** ☸️
@@ -33,7 +33,7 @@ To validate my knowledge and challenge myself, I'm also pursuing IT certificatio
 - AWS Solutions Architect Associate (SAA-C02) \[28/11/2021\]
 - GitLab Certified Associate \[31/12/2021\]
 - CompTIA Linux+ (XK1-005) \[13/2/2022\]
-- Linux Foundation Certified Kubernetes Administrator \[8/6/2022\]
+- Linux Foundation Certified Kubernetes Administrator (CKA) \[8/6/2022\]
 - CompTIA Security+ (SY0-601) \[19/6/2022\]
 
 Thanks for stopping by!
