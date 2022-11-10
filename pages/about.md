@@ -8,7 +8,7 @@ permalink: /about
 
 <img src="/assets/me.jpeg" alt="pic" width="200" align=right style="border-radius:50%"/>
 
-Hi, I'm Axel Tan. I'm currently a Computer Science freshman at Singapore Management University. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Cloud technologies ☁️, DevOps ♾️ and scalable systems. I created this website to share my learning journey, showcase some of my side projects and blog about what I've learnt.
+Hi, I'm Axel Tan. I'm currently a Computer Science freshman at Singapore Management University. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Software Engineering 💻, Cybersecurity 🔒 and DevOps ♾️. I created this website to share my learning journey, showcase some of my side projects and blog about what I've learnt.
 
 The tools and technologies I am proficient with include:
 
@@ -27,7 +27,7 @@ I have been volunteering on a weekly basis with [Touch Young Arrows](https://www
 When I feel like taking a break, I like to immerse myself in sports, be it playing or watching football ⚽. I also enjoy browsing through Reddit.
 
 To validate my knowledge and challenge myself, I'm also pursuing IT certifications. Listed below are some of the certifications I've obtained:
-- [LPI Linux Essentials](lpi-linux-essentials-resources-and-online-exam-experience) (010-160) \[14/5/2021\]
+- LPI Linux Essentials (010-160) \[14/5/2021\]
 - CompTIA A+ Core 1 (220-1001) \[6/6/2021\]
 - CompTIA A+ Core 2 (200-1002) \[16/8/2021\]
 - AWS Solutions Architect Associate (SAA-C02) \[28/11/2021\]
