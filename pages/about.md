@@ -8,25 +8,28 @@ permalink: /about
 
 <img src="/assets/me.jpeg" alt="pic" width="200" align=right style="border-radius:50%"/>
 
-Hi, I'm Axel Tan. I'm currently a Computer Science freshman at Singapore Management University. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Software Engineering 💻, Cybersecurity 🔒 and DevOps ♾️. I created this website to share my learning journey, showcase some of my side projects and blog about what I've learnt.
+Hi, I'm Axel Tan. I'm currently a Computer Science freshman at Singapore Management University. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Software Engineering 💻, DevOps ♾️ and Cybersecurity 🔒. I created this website to share my learning journey, showcase some of my side projects and blog about what I've learnt.
 
 The tools and technologies I am proficient with include:
 
 - **AWS** ☁️
 - **Linux** 🐧
 - **Python** 🐍
+- **Docker** 🚢
+- **Kubernetes** ☸️
+- **Git** 
 
 Some of the technologies I'm currently learning include:
 
-- **Docker** 🚢
-- **Kubernetes** ☸️
-- **Terraform** 🇹
+- **React**
+- **Node.js**
+- **Express**
 
-I have been volunteering on a weekly basis with [Touch Young Arrows](https://www.touch.org.sg/about-touch/our-services/touch-young-arrows-homepage) 💘 since January 2021, providing mentoring programmes for underprivileged children. During the weekly mentoring sessions, we provide English and Mathematics tuition to the children, followed by a session of Values Driven Activity (VDA), in which we inculcate in them values that will help them grow and develop.
+I find it meaningful and fulfilling to serve the community. As such, I have been volunteering on a weekly basis with [Touch Young Arrows](https://www.touch.org.sg/about-touch/our-services/touch-young-arrows-homepage) 💘 since January 2021, providing mentoring programmes for underprivileged children. During the weekly mentoring sessions, we provide English and Mathematics tuition to the children, followed by an hour of Values Driven Activities (VDA), in which we teach them values that can help them grow and develop. Through these activies, I learn to become a better person and form meaningful friendships.
 
-When I feel like taking a break, I like to immerse myself in sports, be it playing or watching football ⚽. I also enjoy browsing through Reddit.
+When I feel like taking a break, I like to immerse myself in sports, be it playing or watching football ⚽. I also occasionally read books 📖.
 
-To validate my knowledge and challenge myself, I'm also pursuing IT certifications. Listed below are some of the certifications I've obtained:
+To validate my knowledge and challenge myself, I've pursued some IT certifications. Listed below are some of the certifications I've obtained:
 - LPI Linux Essentials (010-160) \[14/5/2021\]
 - CompTIA A+ Core 1 (220-1001) \[6/6/2021\]
 - CompTIA A+ Core 2 (200-1002) \[16/8/2021\]
@@ -36,4 +39,4 @@ To validate my knowledge and challenge myself, I'm also pursuing IT certificatio
 - Linux Foundation Certified Kubernetes Administrator (CKA) \[8/6/2022\]
 - CompTIA Security+ (SY0-601) \[19/6/2022\]
 
-Thanks for stopping by!
+Thanks for stopping by and have a great day!
