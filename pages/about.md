@@ -12,11 +12,11 @@ Hi, I'm Axel Tan. I'm currently a Computer Science freshman at Singapore Managem
 
 The tools and technologies I am proficient with include:
 
-- **AWS** ☁️
-- **Linux** 🐧
-- **Python** 🐍
-- **Docker** 🚢
-- **Kubernetes** ☸️
+- **AWS**
+- **Linux**
+- **Python**
+- **Docker**
+- **Kubernetes**
 - **Git** 
 
 Some of the technologies I'm currently learning include:
