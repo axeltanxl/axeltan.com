@@ -8,7 +8,7 @@ permalink: /about
 
 <img src="/assets/me.jpeg" alt="pic" width="200" align=right style="border-radius:50%"/>
 
-Hi, I'm Axel Tan. I'm currently a Computer Science freshman at Singapore Management University. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Software Engineering 💻, DevOps ♾️ and Cybersecurity 🔒. I created this website to share my learning journey, showcase some of my side projects and blog about what I've learnt.
+Hi, I'm Axel Tan. I'm currently a Computer Science freshman at Singapore Management University. I enjoy learning about the latest technologies and trends in IT. My interests lie primarily in Cloud Infrastructure ☁️ and DevOps ♾️. I created this website to share my learning journey, showcase some of my side projects and blog about what I've learnt.
 
 The tools and technologies I am proficient with include:
 
@@ -19,11 +19,11 @@ The tools and technologies I am proficient with include:
 - **Kubernetes**
 - **Git** 
 
-Some of the technologies I'm currently learning include:
+<!-- Some of the technologies I'm currently learning include:
 
 - **React**
 - **Node.js**
-- **Express**
+- **Express** -->
 
 I find it meaningful and fulfilling to serve the community. As such, I have been volunteering on a weekly basis with [Touch Young Arrows](https://www.touch.org.sg/about-touch/our-services/touch-young-arrows-homepage) 💘 since January 2021, providing mentoring programmes for underprivileged children. During the weekly mentoring sessions, we provide English and Mathematics tuition to the children, followed by an hour of Values Driven Activities (VDA), in which we teach them values that can help them grow and develop. Through these activies, I learn to become a better person and form meaningful friendships.
 
