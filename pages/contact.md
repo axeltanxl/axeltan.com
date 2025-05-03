@@ -6,20 +6,22 @@ permalink: /contact
 
 # Contact Me
 
-You may contact me [through my email](mailto:axeltan@outlook.sg) or by filling up the form below.
+<p>You may contact me <a href="mailto:your@email.com">through my email</a> or by filling out the form below.</p>
 
-<div id=contact>
-    <form action="https://formspree.io/f/xyylbezz" method="POST">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" class="full-width"><br>
-        <label for="email">Email Address:</label>
-        <input type="email" id="email" name="_replyto" class="full-width"><br>
-        <div>
-            <label for="message">Message:</label>
-        </div>
-        <div>
-            <textarea name="message" id="message" cols="30" rows="10" style="width:69%; height:175px;"></textarea><br>
-        </div>
-        <input type="submit" value="Send" class="button" style="color:#222">
-    </form>
+<div class="contact-container">
+  <form action="https://formspree.io/f/xyylbezz" method="POST" class="contact-form">
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" placeholder="Your name" required>
+    </div>
+    <div class="form-group">
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="_replyto" placeholder="you@example.com" required>
+    </div>
+    <div class="form-group">
+      <label for="message">Message</label>
+      <textarea name="message" id="message" placeholder="Type your message…" rows="6" required></textarea>
+    </div>
+    <button type="submit" class="contact-btn">Send</button>
+  </form>
 </div>

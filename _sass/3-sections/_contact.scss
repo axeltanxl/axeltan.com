@@ -1,0 +1,92 @@
+.contact-container {
+  max-width: 480px;
+  margin: 2em auto;
+  padding: 2em;
+  background: #232323; /* dark background */
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.35);
+  border: 1.5px solid #444;
+}
+
+.contact-form .form-group {
+  margin-bottom: 1.5em;
+}
+
+.contact-form label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+  color: #e0e6ed; /* light text */
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%;
+  padding: 0.75em 1em;
+  border: 1.5px solid #444;
+  border-radius: 12px;
+  background: #2c2c2c; /* input bg */
+  color: #fff;      /* input text */
+  font-size: 1em;
+  transition: border-color 0.2s;
+  box-sizing: border-box;
+}
+
+.contact-form input[type="text"]:focus,
+.contact-form input[type="email"]:focus,
+.contact-form textarea:focus {
+  border-color: #3fa5ff; /* blue accent */
+  outline: none;
+}
+
+.contact-form textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+/* Toolbar and icons (if you use them) */
+.contact-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid #444;
+  margin-top: 0.5em;
+  padding-top: 0.5em;
+}
+
+.contact-icons button {
+  background: none;
+  border: none;
+  color: #888;
+  font-size: 1.1em;
+  padding: 4px 6px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.contact-icons button:hover,
+.contact-icons button:focus {
+  background: #23272f;
+  color: #3fa5ff;
+}
+
+.contact-btn {
+  display: inline-block;
+  padding: 0.75em 2em;
+  background: #3fa5ff; /* blue button */
+  color: #fff;
+  border: none;
+  border-radius: 16px;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px rgba(63,165,255,0.10);
+}
+
+.contact-btn:hover,
+.contact-btn:focus {
+  background: #2389d7;
+  box-shadow: 0 4px 16px rgba(63,165,255,0.15);
+}
