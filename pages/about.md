@@ -9,7 +9,7 @@ permalink: /about
 <!-- <img src="/assets/me.jpeg" alt="pic" width="200" align=right style="border-radius:50%"/> -->
 
 Hi, I'm Axel 👋
-I'm a Computer Science student at Singapore Management University 🏛️, passionate about building reliable secure and scalable systems 🔒🚀. My interests lie primarily in Cybersecurity and Software Engineering 👩‍💻🛡️. This website serves as a platform to share technical articles 📝, CTF writeups 🏴‍☠️, and personal reflections on my learning journey 🧠.
+I'm a Computer Science student at Singapore Management University 🏛️, passionate about building reliable secure and scalable systems 🔒🚀. My interests lie primarily in Cybersecurity and Software Engineering 👨‍💻🛡️. This website serves as a platform to share technical articles 📝, CTF writeups 🏴‍☠️, and personal reflections on my learning journey 🧠.
 
 I also actively contribute to the cybersecurity community as part of the N0H4TS Community Team 🤝, helping organize events and workshops for cybersecurity enthusiasts.
 
