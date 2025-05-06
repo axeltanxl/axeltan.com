@@ -6,7 +6,7 @@ permalink: /contact
 
 # Contact Me
 
-<p>You may contact me <a href="mailto:your@email.com">through my email</a> or by filling out the form below.</p>
+<p>You may contact me by filling out the form below!</p>
 
 <div class="contact-container">
   <form action="https://formspree.io/f/xyylbezz" method="POST" class="contact-form">
